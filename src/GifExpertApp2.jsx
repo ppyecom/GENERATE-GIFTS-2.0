@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import './GifExpertAStyle.css'
-import CategoryGenerate from './components/category/categoryGenerate'
+import CategoryGenerate from './components/category/CategoryGenerate'
 
 const GifExpertApp2 = () => {
 
