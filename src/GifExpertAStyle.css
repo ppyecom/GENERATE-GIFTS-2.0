@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;  
+  }
+.title-container {
+    padding: 40px;
+    margin: 0px auto;
+    line-height: 60px;
+    font-size: 3rem;
+    color: #EDEEE9;
+    font-family: 'Georgia';
+    text-shadow: 0 0 #3E3E40,
+                 -1px 1px #3E3E40,
+                 -2px 2px #3E3E40,
+                 -3px 3px #3E3E40,
+                 -15px 15px #3E3E40;
+  }
